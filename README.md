@@ -1,7 +1,7 @@
 # Mohammed Abdulghaffar 🌟  
 **📧 Email:** [magh.developer@gmail.com](mailto:magh.developer@gmail.com)  
 **🔗 Links:**  
-[LinkedIn](https://www.linkedin.com/in/mohammed-abdulghaffar-dev) | [Portfolio](https://magh.nawafed.tech)
+[LinkedIn](https://www.linkedin.com/in/mohammed-abdulghaffar-dev) | [Portfolio](https://magh.erp-point.com)
 
 ---
 
@@ -110,7 +110,7 @@ Web Developer with over 4 years of experience specializing in **Laravel developm
 
 ## 📬 **Contact**  
 - **Email:** [magh.developer@gmail.com](mailto:magh.developer@gmail.com)   
-- **Portfolio:** [magh.nawafed.tech](https://magh.nawafed.tech)  
+- **Portfolio:** [magh.erp-point.com](https://magh.erp-point.com)  
 
 ---
 
